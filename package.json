@@ -1,9 +1,13 @@
 {
-  "name": "Monster game",
+  "name": "Monster_game",
   "version": "0.1.0",
   "description": "Game written in Vue.js",
   "author": "Maksym",
-    "homepage": "https://github.com/Makiss/monster_game",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Makiss/monster_game.git"
+  },
+  "homepage": "https://github.com/Makiss/monster_game",
   "devDependencies": {
     "eslint": "3.9.0",
     "eslint-config-htmlacademy": "0.2.x"
